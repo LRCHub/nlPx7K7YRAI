@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "ライラック",
+  "base_artist": "minami",
+  "createdAt": "2025-12-16T10:36:04.853358Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ライラック",
+      "artist": "美波",
+      "has_synced": true,
+      "path": "select/01_ライラック_美波.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ライラック",
+      "artist": "Minami",
+      "has_synced": true,
+      "path": "select/02_ライラック_Minami.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ライラック",
+      "artist": "美波",
+      "has_synced": true,
+      "path": "select/03_ライラック_美波.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ライラック (丁香花)",
+      "artist": "美波",
+      "has_synced": true,
+      "path": "select/04_ライラック_(丁香花)_美波.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ライラック",
+      "artist": "Mrs. Green Apple",
+      "has_synced": true,
+      "path": "select/05_ライラック_Mrs._Green_Apple.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ライラック - Lilac",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/06_ライラック_-_Lilac_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ライラック - Lilac",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/07_ライラック_-_Lilac_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ライラック - Lilac",
+      "artist": "Mrs. GREEN APPLE • 126M plays",
+      "has_synced": true,
+      "path": "select/08_ライラック_-_Lilac_Mrs._GREEN_APPLE_•_126M_plays.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ライラック・ワイン",
+      "artist": "Nina Simone",
+      "has_synced": true,
+      "path": "select/09_ライラック・ワイン_Nina_Simone.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ライラック",
+      "artist": "Minami",
+      "has_synced": true,
+      "path": "select/10_ライラック_Minami.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ライラック",
+      "artist": "LOST IN TIME",
+      "has_synced": true,
+      "path": "select/11_ライラック_LOST_IN_TIME.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ライラック",
+      "artist": "Mrs.GREEN APPLE",
+      "has_synced": true,
+      "path": "select/12_ライラック_Mrs.GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ライラック - Lilac",
+      "artist": "Mrs.GREEN APPLE",
+      "has_synced": true,
+      "path": "select/13_ライラック_-_Lilac_Mrs.GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ライラック",
+      "artist": "Mrs․ GREEN APPLE",
+      "has_synced": true,
+      "path": "select/14_ライラック_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ライラック (Paused)",
+      "artist": "美波",
+      "has_synced": true,
+      "path": "select/15_ライラック_(Paused)_美波.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ライラック",
+      "artist": "美波",
+      "has_synced": false,
+      "path": "select/pl_01_ライラック_美波.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ライラック",
+      "artist": "美波",
+      "has_synced": false,
+      "path": "select/pl_02_ライラック_美波.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ライラック",
+      "artist": "美波",
+      "has_synced": false,
+      "path": "select/pl_03_ライラック_美波.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ライラック",
+      "artist": "美波",
+      "has_synced": false,
+      "path": "select/pl_04_ライラック_美波.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ライラック",
+      "artist": "美波",
+      "has_synced": false,
+      "path": "select/pl_05_ライラック_美波.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "ライラック",
+      "artist": "美波",
+      "has_synced": false,
+      "path": "select/pl_06_ライラック_美波.txt"
+    }
+  ]
+}
